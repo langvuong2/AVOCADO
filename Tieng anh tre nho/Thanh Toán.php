@@ -1,4 +1,6 @@
-<!DOCTYPE html>
+<?php
+echo
+'<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -51,5 +53,6 @@
        <p align="center"> <input type="submit" value="Thanh toán"></p>
     </form>
 </body>
-</html>
+</html>'
+?>
 
